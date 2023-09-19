@@ -1,6 +1,7 @@
 void main() {
-  String myName = "Tommy";
+  String ourName = "projects";
+  
 
-  print('Hola $myName');
+  print('Hola ${ourName.toUpperCase()}');
   
 }
